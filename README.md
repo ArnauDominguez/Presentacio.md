@@ -18,6 +18,8 @@ Doncs d'aquests cursos, m'emporto que la informàtica jo pensava que era poca co
 
 [Figma 2](https://www.figma.com/design/BRoOGG8A0lSWYmnkRb3WZM/No-Dopamine-?node-id=0-1&p=f&t=ovBAlt0nA8Du3Y8d-0)
 
-## Roblox, diria que el projecte que mes em vaig divertir, disenyar el joc va ser una passada, 
+## Web, fent la web també he disfrutat molt
+
+[Web](https://arnaudominguez.github.io/web/)
 
 [Tornar a la presentació personal](https://github.com/ArnauDominguez)
