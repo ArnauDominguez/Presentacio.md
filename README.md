@@ -6,9 +6,9 @@ Em dic Arnau Domínguez Turull, sóc un estudiant del segon any del grau mitjà 
 
 De cara al meu futur laboral, tinc molt clar que em vull dedicar al món de la programació. Em motiva especialment el repte de crear aplicacions i sistemes que facilitin la vida dels usuaris. Com a persona sociable i proactiva, m'encantaria formar part d'un equip de desenvolupament on pugui aprendre de professionals experimentats, aportar la meva visió i créixer dia a dia fins a convertir-me en un desenvolupador versàtil.
 
-# Que m'emporto d'aquests cursos
+# Que m'emporto d'aquest curs
 
-Doncs d'aquests cursos, m'emporto que la informàtica jo pensava que era poca cosa, però gràcies a aquest cicle, he descobert que no, que la informàtica és tot un món que requereix formació dia a dia, ja que és un món que es va actualitzant a mesura que passa el temps. 
+Doncs d'aquest curs, m'emporto que la informàtica jo pensava que era poca cosa, però gràcies a aquest cicle, he descobert que no, que la informàtica és tot un món que requereix formació dia a dia, ja que és un món que es va actualitzant a mesura que passa el temps. 
 
 # Tasques que mes he disfrutat
 
@@ -21,5 +21,7 @@ Doncs d'aquests cursos, m'emporto que la informàtica jo pensava que era poca co
 ## Web, fent la web també he disfrutat molt
 
 [Web](https://arnaudominguez.github.io/web/)
+
+---
 
 [Tornar a la presentació personal](https://github.com/ArnauDominguez)
